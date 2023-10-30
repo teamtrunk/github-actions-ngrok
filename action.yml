@@ -1,4 +1,4 @@
-name: 'Ngrok'
+name: 'Ngrok Github Action'
 description: 'In Github Runner: tunnel local ports to public URLs and inspect traffic via ngrok'
 author: 'Nasfame'
 
