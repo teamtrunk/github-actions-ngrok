@@ -1,5 +1,10 @@
 # Github Actions Ngrok Tunnel
 
+[![GitHub stars](https://img.shields.io/github/stars/Nasfame/github-actions-ngrok)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Nasfame/github-actions-ngrok?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
+[![GitHub contributors](https://img.shields.io/github/contributors/Nasfame/github-actions-ngrok?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
+
+
 This action is based on [this repository](https://github.com/Nasfame/github-actions-ngrok).
 
 This is a Github Action that can be used in your Github Workflow to tunnel incoming/outgoing TCP or HTTP traffic in your workflow environment, achieving temporary deployment for testing or other purposes.
